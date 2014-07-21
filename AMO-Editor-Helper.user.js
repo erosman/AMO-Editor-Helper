@@ -2,8 +2,8 @@
 // @name          AMO Editor Helper
 // @namespace     erosman
 // @description   Helper functions for AMO Editors
-// @updateURL     https://userscripts.org/scripts/source/.meta.js
-// @downloadURL   https://userscripts.org/scripts/source/.user.js
+// @updateURL     https://github.com/erosman/AMO-Editor-Helper/raw/master/AMO-Editor-Helper.user.js
+// @downloadURL   https://github.com/erosman/AMO-Editor-Helper/raw/master/AMO-Editor-Helper.user.js
 // @include       https://addons.mozilla.org/en-US/editors/queue/*
 // @grant         GM_setValue
 // @grant         GM_getValue
