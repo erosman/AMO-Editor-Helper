@@ -1,0 +1,19 @@
+# Some comments here
+# More comments here
+# and comments here
+http://*/*
+http://*/foo*
+https://*.google.com/foo*bar
+http://example.org/foo/bar.html
+file:///foo*
+http://127.0.0.1/*
+*://mail.google.com/*
+<all_urls> 
+http://www.google.com
+http://*foo/bar
+http://foo.*.bar/baz 
+http:/bar
+foo://*
+# Some comments here
+# More comments here
+# and comments here
